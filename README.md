@@ -6,7 +6,7 @@
 ##
 </div>
 
-#### Conhecimentos em
+#### Atualmente tenho estudado
 <div style="display: inline_block"><br>
   <img align="center" alt="Jose-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
