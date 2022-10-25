@@ -4,7 +4,6 @@
 
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=josevitorps&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josevitorps&layout=compact&langs_count=7&theme=react"/>
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=josevitorps&theme=react&hide_border=true"/>
 
 ##    
 </div>
